@@ -135,11 +135,7 @@ header .nav-bar ul li a:hover{
 
 /* Star Landing */
 .landing{
-<<<<<<< HEAD
     background-image: url(../image/710750.jpg);
-=======
-    background-image: url(./710750.jpg);
->>>>>>> 5057afa3fd89bd4c0af5b261a1eb6738983ae148
     background-size: cover;
     height: calc(100vh - 60px);
     position: relative;
